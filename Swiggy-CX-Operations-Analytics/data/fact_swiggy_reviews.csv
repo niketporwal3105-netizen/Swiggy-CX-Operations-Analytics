@@ -1,0 +1,221 @@
+review_id,order_id,customer_rating,review_text,sentiment,root_cause_category,action_owner
+REV-5001,SWG-2026-OCT-1001,2,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5002,SWG-2026-NOV-1002,1,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5003,SWG-2026-NOV-1003,3,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5004,SWG-2026-NOV-1004,1,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5005,SWG-2026-NOV-1005,5,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5006,SWG-2026-NOV-1006,4,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5007,SWG-2026-OCT-1007,5,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5008,SWG-2026-NOV-1008,1,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5009,SWG-2026-OCT-1009,1,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5010,SWG-2026-OCT-1010,5,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5011,SWG-2026-OCT-1011,2,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5012,SWG-2026-NOV-1012,2,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5013,SWG-2026-OCT-1013,5,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5014,SWG-2026-NOV-1014,5,"Raised a missing item ticket, support closed it with zero refund.",Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5015,SWG-2026-OCT-1015,4,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5016,SWG-2026-OCT-1016,5,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5017,SWG-2026-NOV-1017,3,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5018,SWG-2026-OCT-1018,3,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5019,SWG-2026-OCT-1019,5,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5020,SWG-2026-OCT-1020,5,App kept crashing on the tracking screen. Could not see live location.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5021,SWG-2026-OCT-1021,4,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5022,SWG-2026-NOV-1022,3,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5023,SWG-2026-OCT-1023,1,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5024,SWG-2026-NOV-1024,1,Courteous delivery partner and accurate delivery time estimate.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5025,SWG-2026-OCT-1025,5,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5026,SWG-2026-NOV-1026,5,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5027,SWG-2026-NOV-1027,5,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5028,SWG-2026-OCT-1028,2,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5029,SWG-2026-OCT-1029,5,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5030,SWG-2026-NOV-1030,1,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5031,SWG-2026-NOV-1031,2,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5032,SWG-2026-NOV-1032,3,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5033,SWG-2026-OCT-1033,3,"Raised a missing item ticket, support closed it with zero refund.",Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5034,SWG-2026-OCT-1034,1,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5035,SWG-2026-OCT-1035,3,"Raised a missing item ticket, support closed it with zero refund.",Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5036,SWG-2026-NOV-1036,2,Courteous delivery partner and accurate delivery time estimate.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5037,SWG-2026-OCT-1037,5,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5038,SWG-2026-OCT-1038,5,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5039,SWG-2026-NOV-1039,3,Courteous delivery partner and accurate delivery time estimate.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5040,SWG-2026-OCT-1040,5,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5041,SWG-2026-NOV-1041,4,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5042,SWG-2026-OCT-1042,5,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5043,SWG-2026-OCT-1043,3,Packaging charge of Rs 40 for a single roll is unreasonable.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5044,SWG-2026-OCT-1044,5,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5045,SWG-2026-OCT-1045,5,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5046,SWG-2026-OCT-1046,5,Packaging charge of Rs 40 for a single roll is unreasonable.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5047,SWG-2026-OCT-1047,5,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5048,SWG-2026-OCT-1048,4,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5049,SWG-2026-OCT-1049,2,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5050,SWG-2026-NOV-1050,5,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5051,SWG-2026-NOV-1051,5,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5052,SWG-2026-OCT-1052,2,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5053,SWG-2026-OCT-1053,4,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5054,SWG-2026-NOV-1054,5,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5055,SWG-2026-NOV-1055,2,Container was crushed and dal spilled all over the paper bag.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5056,SWG-2026-OCT-1056,2,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5057,SWG-2026-NOV-1057,4,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5058,SWG-2026-NOV-1058,1,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5059,SWG-2026-OCT-1059,1,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5060,SWG-2026-OCT-1060,5,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5061,SWG-2026-NOV-1061,4,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5062,SWG-2026-OCT-1062,3,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5063,SWG-2026-OCT-1063,4,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5064,SWG-2026-NOV-1064,4,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5065,SWG-2026-NOV-1065,2,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5066,SWG-2026-NOV-1066,1,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5067,SWG-2026-OCT-1067,2,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5068,SWG-2026-NOV-1068,5,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5069,SWG-2026-NOV-1069,2,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5070,SWG-2026-NOV-1070,2,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5071,SWG-2026-NOV-1071,5,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5072,SWG-2026-OCT-1072,1,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5073,SWG-2026-OCT-1073,2,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5074,SWG-2026-NOV-1074,3,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5075,SWG-2026-OCT-1075,1,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5076,SWG-2026-OCT-1076,3,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5077,SWG-2026-OCT-1077,1,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5078,SWG-2026-NOV-1078,1,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5079,SWG-2026-OCT-1079,2,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5080,SWG-2026-NOV-1080,5,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5081,SWG-2026-NOV-1081,3,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5082,SWG-2026-NOV-1082,3,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5083,SWG-2026-NOV-1083,3,Courteous delivery partner and accurate delivery time estimate.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5084,SWG-2026-NOV-1084,1,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5085,SWG-2026-OCT-1085,1,Packaging charge of Rs 40 for a single roll is unreasonable.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5086,SWG-2026-NOV-1086,1,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5087,SWG-2026-NOV-1087,2,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5088,SWG-2026-NOV-1088,4,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5089,SWG-2026-OCT-1089,3,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5090,SWG-2026-OCT-1090,2,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5091,SWG-2026-NOV-1091,3,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5092,SWG-2026-OCT-1092,3,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5093,SWG-2026-NOV-1093,2,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5094,SWG-2026-NOV-1094,1,Packaging charge of Rs 40 for a single roll is unreasonable.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5095,SWG-2026-NOV-1095,2,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5096,SWG-2026-OCT-1096,4,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5097,SWG-2026-OCT-1097,1,Packaging charge of Rs 40 for a single roll is unreasonable.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5098,SWG-2026-OCT-1098,4,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5099,SWG-2026-OCT-1099,3,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5100,SWG-2026-OCT-1100,4,Great packaging and prompt delivery by the executive.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5101,SWG-2026-NOV-1101,4,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5102,SWG-2026-NOV-1102,1,Packaging charge of Rs 40 for a single roll is unreasonable.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5103,SWG-2026-OCT-1103,5,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5104,SWG-2026-OCT-1104,3,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5105,SWG-2026-NOV-1105,5,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5106,SWG-2026-OCT-1106,2,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5107,SWG-2026-NOV-1107,2,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5108,SWG-2026-NOV-1108,1,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5109,SWG-2026-OCT-1109,3,Container was crushed and dal spilled all over the paper bag.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5110,SWG-2026-OCT-1110,4,App kept crashing on the tracking screen. Could not see live location.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5111,SWG-2026-OCT-1111,3,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5112,SWG-2026-NOV-1112,2,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5113,SWG-2026-NOV-1113,3,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5114,SWG-2026-NOV-1114,2,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5115,SWG-2026-OCT-1115,3,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5116,SWG-2026-NOV-1116,5,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5117,SWG-2026-OCT-1117,3,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5118,SWG-2026-OCT-1118,5,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5119,SWG-2026-NOV-1119,1,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5120,SWG-2026-NOV-1120,2,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5121,SWG-2026-NOV-1121,1,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5122,SWG-2026-NOV-1122,4,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5123,SWG-2026-OCT-1123,2,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5124,SWG-2026-OCT-1124,1,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5125,SWG-2026-OCT-1125,2,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5126,SWG-2026-OCT-1126,5,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5127,SWG-2026-NOV-1127,1,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5128,SWG-2026-NOV-1128,5,Container was crushed and dal spilled all over the paper bag.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5129,SWG-2026-OCT-1129,4,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5130,SWG-2026-OCT-1130,1,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5131,SWG-2026-OCT-1131,1,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5132,SWG-2026-NOV-1132,1,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5133,SWG-2026-OCT-1133,5,Container was crushed and dal spilled all over the paper bag.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5134,SWG-2026-NOV-1134,4,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5135,SWG-2026-OCT-1135,1,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5136,SWG-2026-NOV-1136,5,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5137,SWG-2026-NOV-1137,1,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5138,SWG-2026-NOV-1138,1,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5139,SWG-2026-OCT-1139,1,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5140,SWG-2026-NOV-1140,5,Great packaging and prompt delivery by the executive.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5141,SWG-2026-NOV-1141,2,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5142,SWG-2026-NOV-1142,2,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5143,SWG-2026-OCT-1143,1,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5144,SWG-2026-OCT-1144,2,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5145,SWG-2026-OCT-1145,2,App kept crashing on the tracking screen. Could not see live location.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5146,SWG-2026-NOV-1146,3,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5147,SWG-2026-NOV-1147,4,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5148,SWG-2026-NOV-1148,5,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5149,SWG-2026-NOV-1149,1,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5150,SWG-2026-NOV-1150,1,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5151,SWG-2026-NOV-1151,3,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5152,SWG-2026-NOV-1152,4,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5153,SWG-2026-NOV-1153,2,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5154,SWG-2026-NOV-1154,2,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5155,SWG-2026-OCT-1155,1,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5156,SWG-2026-OCT-1156,5,Packaging charge of Rs 40 for a single roll is unreasonable.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5157,SWG-2026-NOV-1157,3,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5158,SWG-2026-OCT-1158,2,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5159,SWG-2026-NOV-1159,2,Container was crushed and dal spilled all over the paper bag.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5160,SWG-2026-OCT-1160,2,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5161,SWG-2026-NOV-1161,2,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5162,SWG-2026-OCT-1162,4,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5163,SWG-2026-NOV-1163,2,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5164,SWG-2026-NOV-1164,4,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5165,SWG-2026-OCT-1165,1,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5166,SWG-2026-NOV-1166,1,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5167,SWG-2026-OCT-1167,5,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5168,SWG-2026-OCT-1168,5,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5169,SWG-2026-NOV-1169,1,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5170,SWG-2026-OCT-1170,1,Super fast delivery! Food arrived steaming hot within 20 minutes.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5171,SWG-2026-NOV-1171,4,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5172,SWG-2026-NOV-1172,5,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5173,SWG-2026-OCT-1173,1,"Payment was debited twice at checkout, but order placed only once.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5174,SWG-2026-NOV-1174,4,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5175,SWG-2026-NOV-1175,1,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5176,SWG-2026-NOV-1176,2,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5177,SWG-2026-OCT-1177,4,"Raised a missing item ticket, support closed it with zero refund.",Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5178,SWG-2026-NOV-1178,4,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5179,SWG-2026-OCT-1179,5,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5180,SWG-2026-OCT-1180,2,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5181,SWG-2026-NOV-1181,2,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5182,SWG-2026-OCT-1182,3,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5183,SWG-2026-NOV-1183,4,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5184,SWG-2026-OCT-1184,2,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5185,SWG-2026-NOV-1185,2,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5186,SWG-2026-OCT-1186,2,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5187,SWG-2026-NOV-1187,1,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5188,SWG-2026-NOV-1188,2,Live map froze completely. UI needs serious optimization.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5189,SWG-2026-OCT-1189,2,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5190,SWG-2026-NOV-1190,4,"Raised a missing item ticket, support closed it with zero refund.",Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5191,SWG-2026-OCT-1191,1,Chatbot bot kept looping automated responses. Couldn't reach an executive.,Negative,Customer Support,Customer Support
+REV-5192,SWG-2026-OCT-1192,4,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5193,SWG-2026-NOV-1193,5,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5194,SWG-2026-NOV-1194,1,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5195,SWG-2026-NOV-1195,1,Container was crushed and dal spilled all over the paper bag.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5196,SWG-2026-NOV-1196,1,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5197,SWG-2026-NOV-1197,1,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5198,SWG-2026-OCT-1198,3,Rider took 45 minutes extra. The food was stone cold when delivered.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5199,SWG-2026-OCT-1199,1,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5200,SWG-2026-NOV-1200,3,"Raised a missing item ticket, support closed it with zero refund.",Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5201,SWG-2026-OCT-1201,5,Received paneer butter masala instead of chicken butter masala. Complete mix up.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5202,SWG-2026-NOV-1202,4,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5203,SWG-2026-OCT-1203,2,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5204,SWG-2026-OCT-1204,1,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5205,SWG-2026-OCT-1205,3,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5206,SWG-2026-NOV-1206,5,Food quality was stale. Tasted like yesterday's reheated batch.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5207,SWG-2026-NOV-1207,5,Surge delivery fee of Rs 65 during light drizzle is exorbitant.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5208,SWG-2026-NOV-1208,2,Order assigned to rider very late. App showed driver waiting at restaurant forever.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5209,SWG-2026-NOV-1209,1,Courteous delivery partner and accurate delivery time estimate.,Positive,General Feedback / Praise,Operations & Fleet
+REV-5210,SWG-2026-OCT-1210,2,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5211,SWG-2026-NOV-1211,1,Smooth ordering experience as always. Swiggy One benefits are worth it.,Positive,General Feedback / Praise,Marketing & Growth
+REV-5212,SWG-2026-OCT-1212,4,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5213,SWG-2026-NOV-1213,5,"Delivery partner was polite, but delivery was delayed by half an hour.",Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5214,SWG-2026-NOV-1214,3,"Raised a missing item ticket, support closed it with zero refund.",Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5215,SWG-2026-OCT-1215,1,App kept crashing on the tracking screen. Could not see live location.,Negative,App Bug / Tech Glitch,Product & Tech
+REV-5216,SWG-2026-NOV-1216,4,"Applied coupon SWIGGYIT, discount not reflected in final invoice.",Negative,App Bug / Tech Glitch,Product & Tech
+REV-5217,SWG-2026-OCT-1217,5,Platform fee keeps increasing every month with zero improvement in service.,Negative,Pricing & Delivery Fee,Marketing & Growth
+REV-5218,SWG-2026-NOV-1218,4,Support executive resolved my spilled item issue within 5 minutes. Good job.,Negative,Food Quality / Wrong Item,Restaurant Partner
+REV-5219,SWG-2026-OCT-1219,3,Rider could not locate my address and refused to call back.,Negative,Delivery & Logistics Delay,Operations & Fleet
+REV-5220,SWG-2026-NOV-1220,3,Items were missing from the order. French fries not included.,Negative,Food Quality / Wrong Item,Restaurant Partner
