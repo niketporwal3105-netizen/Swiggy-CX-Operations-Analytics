@@ -28,10 +28,11 @@ Between October and November 2026, customer satisfaction (CSAT) dropped to **2.8
 ## 4. Power BI Dashboard Previews
 
 ### Page 1: Product Analyst View (App Health & Sentiment)
-![Product Analyst Dashboard](dashboard/dashboard_page1_product_analyst.png)
+![Uploading dashboard_page1_product_analyst.png…]()
 
 ### Page 2: Business Analyst View (Operations, SLA & Financial Risk)
-![Business Analyst Dashboard](dashboard/dashboard_page2_business_analyst.png)
+<img width="1920" height="1080" alt="dashboard_page2_business_analyst" src="https://github.com/user-attachments/assets/20b48de5-ece0-4ca0-ba0b-7771642b8a46" />
+
 
 ---
 
